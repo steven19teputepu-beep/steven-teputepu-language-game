@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="108" fill="#EA580C" />
+  <circle cx="395" cy="115" r="46" fill="#FDE047" />
+  <path d="M0 360 Q140 300 280 355 T512 340 L512 404 Q512 512 404 512 L108 512 Q0 512 0 404 Z" fill="#10B981" />
+  <circle cx="256" cy="242" r="118" fill="#FFFFFF" />
+  <text x="256" y="270" text-anchor="middle" font-size="92" font-family="sans-serif" font-weight="900" fill="#EA580C">가A</text>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Seoul Life Adventure",
+  "description": "Cartoon Korean and English daily life and Korean culture learning game (Levels 1A to 2B).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
